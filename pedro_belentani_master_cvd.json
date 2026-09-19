@@ -1,0 +1,2509 @@
+﻿{
+    "schema_version":  "1.0",
+    "document_type":  "master-cvd",
+    "generated_at":  "2026-09-07",
+    "person":  {
+                   "full_name":  "Pedro Marcos Santos Belentani",
+                   "nif":  "60135767J",
+                   "date_of_birth":  "1995-04-07",
+                   "place_of_birth":  "São Paulo, Brazil",
+                   "residence":  "L\u0027Hospitalet de Llobregat, Barcelona, Spain",
+                   "phone":  "+34 631 816 810",
+                   "email":  "belentani7pedro@gmail.com",
+                   "linkedin":  "linkedin.com/in/pedro-b-09473598",
+                   "github":  "github.com/belentani7",
+                   "huggingface":  "belentani7pedro",
+                   "portfolio":  "pedro-belentani.vercel.app",
+                   "company":  "Noiacore",
+                   "professional_statement":  "Neural Architect | Voice Cloning | Zero-Token AI Routing | Creative Systems | Full-Stack TS/Python/Java",
+                   "available":  true,
+                   "work_authorization":  "EU / Spain",
+                   "modality":  "Remote, Hybrid, or On-site (Barcelona)"
+               },
+    "github_profile":  {
+                           "account":  "belentani7",
+                           "id":  230790193,
+                           "created_at":  "2025-09-07",
+                           "public_repos":  105,
+                           "private_repos":  365,
+                           "total_repos":  470,
+                           "two_factor_auth":  true,
+                           "hireable":  true,
+                           "language_split_public":  {
+                                                         "HTML":  36,
+                                                         "TypeScript":  28,
+                                                         "Python":  15,
+                                                         "JavaScript":  4,
+                                                         "PowerShell":  2,
+                                                         "Go":  2,
+                                                         "Java":  2,
+                                                         "CSS":  1
+                                                     }
+                       },
+    "repositories":  [
+                         {
+                             "name":  "abrazo-tender-words",
+                             "full_name":  "belentani7/abrazo-tender-words",
+                             "url":  "https://github.com/belentani7/abrazo-tender-words",
+                             "description":  "Mapa de comprensiâ”œâ”‚n y herramientas sobre TLP, dinâ”œÃ­micas de vâ”œÂ¡nculo y gestiâ”œâ”‚n de lâ”œÂ¡mites emocionales. Del caos a la claridad.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  563,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-03T01:02:56Z",
+                             "updated_at":  "2026-08-31T08:43:40Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "agentbox",
+                             "full_name":  "belentani7/agentbox",
+                             "url":  "https://github.com/belentani7/agentbox",
+                             "description":  "Disposable cloud sandboxes for AI agents. Spin up isolated VMs for Claude, Aider, Codex, Qwen. $4/month, Terraform-powered.",
+                             "language":  "Go",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  31,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T10:05:40Z",
+                             "updated_at":  "2026-09-02T06:35:45Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "belentani-ecosystem",
+                                            "cloud",
+                                            "containerization",
+                                            "deployment",
+                                            "devops",
+                                            "hosting",
+                                            "infrastructure",
+                                            "internal",
+                                            "llm",
+                                            "multi-agent"
+                                        ]
+                         },
+                         {
+                             "name":  "agentguard",
+                             "full_name":  "belentani7/agentguard",
+                             "url":  "https://github.com/belentani7/agentguard",
+                             "description":  "The firewall for your AI budget. Monitor spending, enforce limits, auto-pause agents, route overflow to cheaper models. Go daemon.",
+                             "language":  "Go",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5251,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T10:04:16Z",
+                             "updated_at":  "2026-09-02T06:35:48Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "authentication",
+                                            "authorization",
+                                            "belentani-ecosystem",
+                                            "internal",
+                                            "llm",
+                                            "logging",
+                                            "low-level",
+                                            "monitoring",
+                                            "multi-agent",
+                                            "observability",
+                                            "performance",
+                                            "security",
+                                            "systems"
+                                        ]
+                         },
+                         {
+                             "name":  "ai-command-center-level10",
+                             "full_name":  "belentani7/ai-command-center-level10",
+                             "url":  "https://github.com/belentani7/ai-command-center-level10",
+                             "description":  "AI Command Center Level 10 - Unified Open Source Workspace",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  616,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T13:37:46Z",
+                             "updated_at":  "2026-09-03T10:57:02Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "build-system",
+                                            "cli",
+                                            "developer-tools",
+                                            "monorepo",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "arte-que-veste",
+                             "full_name":  "belentani7/arte-que-veste",
+                             "url":  "https://github.com/belentani7/arte-que-veste",
+                             "description":  "Arte Que Veste - moda autoral y arte vestible; catalogo y tienda creativa.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  848,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T21:56:41Z",
+                             "updated_at":  "2026-09-03T10:53:43Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "logging",
+                                            "low-level",
+                                            "monitoring",
+                                            "observability",
+                                            "performance",
+                                            "systems"
+                                        ]
+                         },
+                         {
+                             "name":  "Belentani",
+                             "full_name":  "belentani7/Belentani",
+                             "url":  "https://github.com/belentani7/Belentani",
+                             "description":  "NOIACORE LAB Ã”Ã‡Ã¶ plataforma digital de Pedro Belentani: catâ”œÃ­logo, agente, automatizaciâ”œâ”‚n, observabilidad y diseâ”œâ–’o cinematogrâ”œÃ­fico.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  786,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-07-31T11:40:14Z",
+                             "updated_at":  "2026-09-03T10:53:00Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "analytics",
+                                            "belentani-ecosystem",
+                                            "data-engineering",
+                                            "internal",
+                                            "llm",
+                                            "logging",
+                                            "low-level",
+                                            "media",
+                                            "monitoring",
+                                            "multi-agent",
+                                            "observability",
+                                            "performance",
+                                            "streaming",
+                                            "systems",
+                                            "video"
+                                        ]
+                         },
+                         {
+                             "name":  "Belentani.cv-ai",
+                             "full_name":  "belentani7/Belentani.cv-ai",
+                             "url":  "https://github.com/belentani7/Belentani.cv-ai",
+                             "description":  "AI-powered document studio Ã”Ã‡Ã¶ CVs, cover letters, presentations. Ã”Ã©Â¼0.99 one-time, GDPR compliant, AES-256",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1742,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-05T16:20:18Z",
+                             "updated_at":  "2026-09-03T12:09:44Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-documents",
+                                            "cv-generator",
+                                            "documentation",
+                                            "education",
+                                            "gdpr"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani_Omega",
+                             "full_name":  "belentani7/belentani_Omega",
+                             "url":  "https://github.com/belentani7/belentani_Omega",
+                             "description":  "Belentani Omega Ã”Ã‡Ã¶ artist ecosystem connecting music, code, and creative technology",
+                             "language":  "JavaScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  12131,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-07-10T12:44:02Z",
+                             "updated_at":  "2026-09-03T10:56:30Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "artist-ecosystem",
+                                            "belentani-ecosystem",
+                                            "creative-tech",
+                                            "internal",
+                                            "logging",
+                                            "monitoring",
+                                            "observability"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani7",
+                             "full_name":  "belentani7/belentani7",
+                             "url":  "https://github.com/belentani7/belentani7",
+                             "description":  "Belentani + NOIACORE | Frontend, creative technology and educational platforms",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  755,
+                             "open_issues_count":  3,
+                             "created_at":  "2026-08-11T23:12:18Z",
+                             "updated_at":  "2026-09-03T10:56:26Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "accessibility",
+                                            "belentani-ecosystem",
+                                            "creative-coding",
+                                            "documentation",
+                                            "education",
+                                            "frontend",
+                                            "internal",
+                                            "logging",
+                                            "monitoring",
+                                            "noiacore",
+                                            "observability",
+                                            "portfolio"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani7.github.io",
+                             "full_name":  "belentani7/belentani7.github.io",
+                             "url":  "https://github.com/belentani7/belentani7.github.io",
+                             "description":  "BELENTANI // OMEGA CORE Ã”Ã‡Ã¶ JUDAS_OS v12.0 â”¬Ã€ organismo vivo â”¬Ã€ 432 Hz",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  85,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-31T09:51:44Z",
+                             "updated_at":  "2026-09-03T10:52:58Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani7-gestaltAI",
+                             "full_name":  "belentani7/belentani7-gestaltAI",
+                             "url":  "https://github.com/belentani7/belentani7-gestaltAI",
+                             "description":  "Belentani7 Gestaltai â€” Belentani ecosystem project",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  8,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-26T02:16:35Z",
+                             "updated_at":  "2026-08-31T08:43:35Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-alibaba-integration",
+                             "full_name":  "belentani7/belentani-alibaba-integration",
+                             "url":  "https://github.com/belentani7/belentani-alibaba-integration",
+                             "description":  "Alibaba Cloud integration: 14 skills, GitHub Actions, free tier optimization",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T08:10:25Z",
+                             "updated_at":  "2026-09-02T08:15:00Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "bELENTANIBROS",
+                             "full_name":  "belentani7/bELENTANIBROS",
+                             "url":  "https://github.com/belentani7/bELENTANIBROS",
+                             "description":  "Juego de Mundo Inmersivo Progatofista",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  49,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T18:06:09Z",
+                             "updated_at":  "2026-09-03T18:08:38Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "low-level",
+                                            "performance",
+                                            "systems"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-design-hub",
+                             "full_name":  "belentani7/belentani-design-hub",
+                             "url":  "https://github.com/belentani7/belentani-design-hub",
+                             "description":  "BELENTANI Ecosystem Circuit - catalogo tipo HBO rojo neon glass enlazando todas las webs del ecosistema",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  16,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T06:05:31Z",
+                             "updated_at":  "2026-09-03T06:07:21Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "logging",
+                                            "low-level",
+                                            "monitoring",
+                                            "observability",
+                                            "performance",
+                                            "systems",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "belentaniexperience",
+                             "full_name":  "belentani7/belentaniexperience",
+                             "url":  "https://github.com/belentani7/belentaniexperience",
+                             "description":  "Portfolio premium de Pedro Belentani: Trust \u0026 Safety, sistemas de IA, automatizaciâ”œâ”‚n, ingenierâ”œÂ¡a de software y creative tech.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  518,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-15T14:49:01Z",
+                             "updated_at":  "2026-09-03T10:53:29Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "artificial-intelligence",
+                                            "automation",
+                                            "creative-tech",
+                                            "gestalt-design",
+                                            "low-level",
+                                            "performance",
+                                            "portfolio",
+                                            "react",
+                                            "software-engineering",
+                                            "systems",
+                                            "trust-and-safety",
+                                            "typescript",
+                                            "vite"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-java-platform",
+                             "full_name":  "belentani7/belentani-java-platform",
+                             "url":  "https://github.com/belentani7/belentani-java-platform",
+                             "description":  "Belentani Platform Ã”Ã‡Ã¶ enterprise-grade Java backend with JPA entities, security layers, and microservice architecture blueprint",
+                             "language":  "Java",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  10,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T09:39:11Z",
+                             "updated_at":  "2026-09-02T06:07:08Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-judas",
+                             "full_name":  "belentani7/belentani-judas",
+                             "url":  "https://github.com/belentani7/belentani-judas",
+                             "description":  "Belentani Judas Ã”Ã‡Ã¶ music project source material, vocal processing, and creative production assets",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T23:12:25Z",
+                             "updated_at":  "2026-09-03T10:55:11Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-monorepo",
+                             "full_name":  "belentani7/belentani-monorepo",
+                             "url":  "https://github.com/belentani7/belentani-monorepo",
+                             "description":  "Belentani monorepo: UX Academy + ManosAbiertas + Belentani platforms. TurboRepo, Next.js, TypeScript.",
+                             "language":  "Java",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  19,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T06:39:58Z",
+                             "updated_at":  "2026-09-02T06:41:41Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "belentani-ecosystem",
+                                            "build",
+                                            "build-system",
+                                            "data-engineering",
+                                            "design",
+                                            "documentation",
+                                            "education",
+                                            "frontend",
+                                            "internal",
+                                            "monorepo",
+                                            "tooling",
+                                            "typescript",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-omega-immersive-portal",
+                             "full_name":  "belentani7/belentani-omega-immersive-portal",
+                             "url":  "https://github.com/belentani7/belentani-omega-immersive-portal",
+                             "description":  "BELENTANI OMEGA Ã”Ã‡Ã¶ immersive 3D creative portal experience",
+                             "language":  "JavaScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  8221,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T15:31:11Z",
+                             "updated_at":  "2026-09-03T10:54:03Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "3d",
+                                            "belentani-ecosystem",
+                                            "graphics",
+                                            "internal",
+                                            "rust",
+                                            "webgl"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-omega-portal",
+                             "full_name":  "belentani7/belentani-omega-portal",
+                             "url":  "https://github.com/belentani7/belentani-omega-portal",
+                             "description":  "Â­Æ’Ã®Æ’ BELENTANI OMEGA - Portal unificado del ecosistema creativo",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  10,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T22:45:38Z",
+                             "updated_at":  "2026-09-03T10:53:12Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-omega-template",
+                             "full_name":  "belentani7/belentani-omega-template",
+                             "url":  "https://github.com/belentani7/belentani-omega-template",
+                             "description":  "BELENTANI OMEGA: Plantilla de experiencia web inmersiva y canon conceptual.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  17752,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:02:25Z",
+                             "updated_at":  "2026-09-03T10:53:26Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "belentani-video-forge",
+                             "full_name":  "belentani7/belentani-video-forge",
+                             "url":  "https://github.com/belentani7/belentani-video-forge",
+                             "description":  "Pipeline de videos cortos automâ”œÃ­ticos - Belentani ecosystem",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5608,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T11:15:35Z",
+                             "updated_at":  "2026-08-28T11:16:56Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "data-engineering",
+                                            "media",
+                                            "streaming",
+                                            "video"
+                                        ]
+                         },
+                         {
+                             "name":  "CARQUIDEC",
+                             "full_name":  "belentani7/CARQUIDEC",
+                             "url":  "https://github.com/belentani7/CARQUIDEC",
+                             "description":  "Parametric architecture studio Ã”Ã‡Ã¶ AI-driven bioclimatic design and energy optimization",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  517514,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-02T15:13:23Z",
+                             "updated_at":  "2026-09-03T10:55:39Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-architecture",
+                                            "analytics",
+                                            "architecture",
+                                            "cli",
+                                            "data-engineering",
+                                            "design",
+                                            "developer-tools",
+                                            "frontend",
+                                            "logging",
+                                            "monitoring",
+                                            "observability",
+                                            "parametric-design",
+                                            "terminal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "cinematic-prompt-formatter",
+                             "full_name":  "belentani7/cinematic-prompt-formatter",
+                             "url":  "https://github.com/belentani7/cinematic-prompt-formatter",
+                             "description":  "Translate cinematic language into optimized prompts for Stable Diffusion, Flux, and SDXL models.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  52,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:51:31Z",
+                             "updated_at":  "2026-09-03T10:55:44Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "claude-skills-pack",
+                             "full_name":  "belentani7/claude-skills-pack",
+                             "url":  "https://github.com/belentani7/claude-skills-pack",
+                             "description":  "20 production-ready skills for AI coding assistants.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  78,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:51:37Z",
+                             "updated_at":  "2026-09-03T10:54:17Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "cli-coder-patterns",
+                             "full_name":  "belentani7/cli-coder-patterns",
+                             "url":  "https://github.com/belentani7/cli-coder-patterns",
+                             "description":  "Cursor IDE patterns unified for CLI coding agents Ã”Ã‡Ã¶ multi-file editing, multi-agent coordination, context management, error recovery loops",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  19,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T20:15:11Z",
+                             "updated_at":  "2026-09-02T20:16:42Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "cli",
+                                            "developer-tools",
+                                            "llm",
+                                            "multi-agent",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "CODEX-OMEGA-SKILL",
+                             "full_name":  "belentani7/CODEX-OMEGA-SKILL",
+                             "url":  "https://github.com/belentani7/CODEX-OMEGA-SKILL",
+                             "description":  "CODEX Omega Skill - Belentani ecosystem",
+                             "language":  "PowerShell",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  21,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T11:15:35Z",
+                             "updated_at":  "2026-08-31T08:43:36Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "comfyui-json-compiler",
+                             "full_name":  "belentani7/comfyui-json-compiler",
+                             "url":  "https://github.com/belentani7/comfyui-json-compiler",
+                             "description":  "Translate natural language creative briefs into valid ComfyUI JSON workflows using LLMs.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  52,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:51:41Z",
+                             "updated_at":  "2026-09-03T10:55:17Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "json",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "Cruzando-el-charco",
+                             "full_name":  "belentani7/Cruzando-el-charco",
+                             "url":  "https://github.com/belentani7/Cruzando-el-charco",
+                             "description":  "Cruzando el Charco, impulsado por noiacore.com y creado por Pedro Belentani, es un portal gratuito y confidencial de acogida, supervivencia y arraigo para hombres migrantes LGBT+ en L\u0027Hospitalet y Barcelona. Informaciâ”œâ”‚n directa y prâ”œÃ­ctica sobre papeles, salud, vivienda y comunidad.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  8735,
+                             "open_issues_count":  3,
+                             "created_at":  "2026-08-07T07:57:52Z",
+                             "updated_at":  "2026-09-03T19:53:51Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "accessibility",
+                                            "barcelona",
+                                            "belentani-ecosystem",
+                                            "cli",
+                                            "community-resource",
+                                            "design",
+                                            "developer-tools",
+                                            "frontend",
+                                            "hospitalet",
+                                            "internal",
+                                            "lgbt",
+                                            "lgbtq",
+                                            "low-level",
+                                            "migration",
+                                            "multilingual",
+                                            "nextjs",
+                                            "performance",
+                                            "privacy",
+                                            "social-impact",
+                                            "systems",
+                                            "terminal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-2026",
+                             "full_name":  "belentani7/duck-2026",
+                             "url":  "https://github.com/belentani7/duck-2026",
+                             "description":  "DUCK 2026 - iteracion anual del ecosistema DUCK.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5532,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T11:11:33Z",
+                             "updated_at":  "2026-09-03T10:57:49Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "duck-apps",
+                             "full_name":  "belentani7/duck-apps",
+                             "url":  "https://github.com/belentani7/duck-apps",
+                             "description":  "iDuck GUI + DUCK STATION (mobile) + DUCK FL STUDIO (DAW web) Ã”Ã‡Ã¶ apps ao vivo",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  870,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T21:47:10Z",
+                             "updated_at":  "2026-09-03T10:54:29Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "cross-platform",
+                                            "data-engineering",
+                                            "design",
+                                            "desktop",
+                                            "frontend",
+                                            "mobile",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-apps-web",
+                             "full_name":  "belentani7/duck-apps-web",
+                             "url":  "https://github.com/belentani7/duck-apps-web",
+                             "description":  "DUCK web applications Ã”Ã‡Ã¶ catalog, sequencer, station, FL Studio tools",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  884,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-30T14:16:32Z",
+                             "updated_at":  "2026-09-03T10:56:36Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "logging",
+                                            "monitoring",
+                                            "music-tools",
+                                            "observability",
+                                            "web-apps"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-belentani-os-audited-2026-08-23",
+                             "full_name":  "belentani7/duck-belentani-os-audited-2026-08-23",
+                             "url":  "https://github.com/belentani7/duck-belentani-os-audited-2026-08-23",
+                             "description":  "DUCK Belentani OS - snapshot auditado 2026-08-23 del sistema operativo creativo.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  391,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-22T22:33:37Z",
+                             "updated_at":  "2026-08-25T21:25:37Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "Duck-Deck",
+                             "full_name":  "belentani7/Duck-Deck",
+                             "url":  "https://github.com/belentani7/Duck-Deck",
+                             "description":  "Music production assets on Html",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  11,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-19T12:37:04Z",
+                             "updated_at":  "2026-09-03T10:57:58Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "duck-docs",
+                             "full_name":  "belentani7/duck-docs",
+                             "url":  "https://github.com/belentani7/duck-docs",
+                             "description":  "DUCK studio documentation Ã”Ã‡Ã¶ audit reports, prompt engineering, delivery specs",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  6871,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-30T14:16:39Z",
+                             "updated_at":  "2026-09-01T08:36:46Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "documentation",
+                                            "education",
+                                            "markdown",
+                                            "music-production"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-ecosystem",
+                             "full_name":  "belentani7/duck-ecosystem",
+                             "url":  "https://github.com/belentani7/duck-ecosystem",
+                             "description":  "Ecosistema DUCK - herramientas, GUIs y apps del estudio creativo DUCK.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  461,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T08:50:29Z",
+                             "updated_at":  "2026-09-03T10:57:45Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-full-studio-pro",
+                             "full_name":  "belentani7/duck-full-studio-pro",
+                             "url":  "https://github.com/belentani7/duck-full-studio-pro",
+                             "description":  "DUCK Full Studio Pro - FL Studio Ecosystem \u0026 Vault (Audited 10/10)",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1323,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T09:22:55Z",
+                             "updated_at":  "2026-09-03T10:55:41Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "authentication",
+                                            "authorization",
+                                            "security"
+                                        ]
+                         },
+                         {
+                             "name":  "DuckHTML",
+                             "full_name":  "belentani7/DuckHTML",
+                             "url":  "https://github.com/belentani7/DuckHTML",
+                             "description":  "Experimentos HTML del universo DUCK - interfaces y prototipos rapidos.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  26,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-22T14:52:16Z",
+                             "updated_at":  "2026-09-03T10:55:02Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "api",
+                                            "graphql",
+                                            "html",
+                                            "rest"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-hub",
+                             "full_name":  "belentani7/duck-hub",
+                             "url":  "https://github.com/belentani7/duck-hub",
+                             "description":  "DUCK hub Ã”Ã‡Ã¶ Astro-based portal connecting all DUCK ecosystem apps and tools",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  448,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-30T14:16:26Z",
+                             "updated_at":  "2026-09-03T10:55:41Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "astro",
+                                            "music-production",
+                                            "portal"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-lab",
+                             "full_name":  "belentani7/duck-lab",
+                             "url":  "https://github.com/belentani7/duck-lab",
+                             "description":  "DUCK Lab - laboratorio de prototipos del universo DUCK/Zion.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  323,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-22T15:37:46Z",
+                             "updated_at":  "2026-09-03T10:58:21Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "duck-music-lab",
+                             "full_name":  "belentani7/duck-music-lab",
+                             "url":  "https://github.com/belentani7/duck-music-lab",
+                             "description":  "DUCK Music Lab Ã”Ã‡Ã¶ interactive music production playground, beat sequencer and audio experimentation tool",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  54,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-26T01:02:11Z",
+                             "updated_at":  "2026-09-03T10:54:45Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "audio",
+                                            "speech-synthesis",
+                                            "tts",
+                                            "voice-ai"
+                                        ]
+                         },
+                         {
+                             "name":  "Duck-Omega",
+                             "full_name":  "belentani7/Duck-Omega",
+                             "url":  "https://github.com/belentani7/Duck-Omega",
+                             "description":  "DUCK Omega - ecosistema artistico y productivo del proyecto Duck/Zion (Belentani).",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  511,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-12T21:34:03Z",
+                             "updated_at":  "2026-09-03T10:54:43Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-studio-suite",
+                             "full_name":  "belentani7/duck-studio-suite",
+                             "url":  "https://github.com/belentani7/duck-studio-suite",
+                             "description":  "Duck Studio Suite - suite integrada de produccion musical web.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  178,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-22T13:09:14Z",
+                             "updated_at":  "2026-09-03T10:54:46Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-unified-master",
+                             "full_name":  "belentani7/duck-unified-master",
+                             "url":  "https://github.com/belentani7/duck-unified-master",
+                             "description":  "DUCK ecosystem consolidation Ã”Ã‡Ã¶ 9 repos unified into one monorepo with apps, docs, and shared infrastructure",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  22551,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-26T23:01:33Z",
+                             "updated_at":  "2026-09-03T10:54:48Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "beatmaker",
+                                            "build-system",
+                                            "documentation",
+                                            "education",
+                                            "monorepo",
+                                            "music-production",
+                                            "studio"
+                                        ]
+                         },
+                         {
+                             "name":  "duck-zion-apex-public",
+                             "full_name":  "belentani7/duck-zion-apex-public",
+                             "url":  "https://github.com/belentani7/duck-zion-apex-public",
+                             "description":  "DUCK ZION Apex Ã”Ã‡Ã¶ professional vocal production platform; audited snapshot, gate currently 57/60",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  540,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T14:56:25Z",
+                             "updated_at":  "2026-09-03T10:54:51Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "DUCK-ZION-PREMIUM",
+                             "full_name":  "belentani7/DUCK-ZION-PREMIUM",
+                             "url":  "https://github.com/belentani7/DUCK-ZION-PREMIUM",
+                             "description":  "DUCK/BELENTANI Canal Zion Ã”Ã‡Ã¶ Studio OS, Ecosystem y Toolkit de producciâ”œâ”‚n musical, afinaciâ”œâ”‚n y mastering.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  208009,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T16:16:56Z",
+                             "updated_at":  "2026-09-03T10:55:06Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "elite-legal-pdf",
+                             "full_name":  "belentani7/elite-legal-pdf",
+                             "url":  "https://github.com/belentani7/elite-legal-pdf",
+                             "description":  "Premium legal PDF generator Ã”Ã‡Ã¶ Human rights law firm style. 4 themes, 6 languages, bookmarks, watermarks. Works as AI agent skill.",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  0,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T10:22:34Z",
+                             "updated_at":  "2026-09-02T10:22:36Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "design",
+                                            "frontend",
+                                            "llm",
+                                            "multi-agent",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "entrenador-jorge-bcn",
+                             "full_name":  "belentani7/entrenador-jorge-bcn",
+                             "url":  "https://github.com/belentani7/entrenador-jorge-bcn",
+                             "description":  "Empresa 100 generada con IA por Belentani",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1224,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-15T07:22:20Z",
+                             "updated_at":  "2026-09-03T10:57:04Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "evidence-ledger",
+                             "full_name":  "belentani7/evidence-ledger",
+                             "url":  "https://github.com/belentani7/evidence-ledger",
+                             "description":  "Local-first evidence receipts for AI and Trust \u0026 Safety decisions",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  139,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T09:37:13Z",
+                             "updated_at":  "2026-09-03T10:56:07Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-governance",
+                                            "audit-trail",
+                                            "llm-observability",
+                                            "low-level",
+                                            "open-source",
+                                            "performance",
+                                            "systems",
+                                            "trust-and-safety"
+                                        ]
+                         },
+                         {
+                             "name":  "fashion-stylist-ai",
+                             "full_name":  "belentani7/fashion-stylist-ai",
+                             "url":  "https://github.com/belentani7/fashion-stylist-ai",
+                             "description":  "AI-powered fashion stylist Ã”Ã‡Ã¶ visual recommendation engine using computer vision and style classification",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  318,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-26T02:57:09Z",
+                             "updated_at":  "2026-09-03T10:53:39Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "shell",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "gpu-cost-optimizer",
+                             "full_name":  "belentani7/gpu-cost-optimizer",
+                             "url":  "https://github.com/belentani7/gpu-cost-optimizer",
+                             "description":  "Optimize GPU compute costs in diffusion pipelines by up to 70%.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  43,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:51:53Z",
+                             "updated_at":  "2026-09-03T10:58:52Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "data-engineering"
+                                        ]
+                         },
+                         {
+                             "name":  "hack-visual",
+                             "full_name":  "belentani7/hack-visual",
+                             "url":  "https://github.com/belentani7/hack-visual",
+                             "description":  "Live coding simulation Ã”Ã‡Ã¶ GitHub profile that breaks into hacker mode",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  11,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T09:57:38Z",
+                             "updated_at":  "2026-09-03T10:54:21Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "harmonia-hub",
+                             "full_name":  "belentani7/harmonia-hub",
+                             "url":  "https://github.com/belentani7/harmonia-hub",
+                             "description":  "Harmonia Hub - plataforma de coordinacion y bienestar.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1209,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T09:57:31Z",
+                             "updated_at":  "2026-09-03T12:10:57Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "data-engineering"
+                                        ]
+                         },
+                         {
+                             "name":  "heyduck",
+                             "full_name":  "belentani7/heyduck",
+                             "url":  "https://github.com/belentani7/heyduck",
+                             "description":  "HEYDUCK - hub web del universo DUCK: apps, musica y herramientas de produccion.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  57767,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-07-16T18:32:17Z",
+                             "updated_at":  "2026-09-03T12:18:53Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "judas-experience-galactic",
+                             "full_name":  "belentani7/judas-experience-galactic",
+                             "url":  "https://github.com/belentani7/judas-experience-galactic",
+                             "description":  "Ã”Â£Ã— JUDAS â”¬Ã€ GALACTIC EXPERIENCE - Cyberpunk glassmorphism web experience",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  18,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T22:38:47Z",
+                             "updated_at":  "2026-09-03T10:55:04Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "judas-omega-static",
+                             "full_name":  "belentani7/judas-omega-static",
+                             "url":  "https://github.com/belentani7/judas-omega-static",
+                             "description":  "JUDAS OMEGA - storyboard cinematografico estatico",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  14,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-23T22:52:36Z",
+                             "updated_at":  "2026-09-03T10:55:31Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "jvictorbarbosa",
+                             "full_name":  "belentani7/jvictorbarbosa",
+                             "url":  "https://github.com/belentani7/jvictorbarbosa",
+                             "description":  "Jvictorbarbosa â€” Belentani ecosystem project",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  0,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-26T06:46:44Z",
+                             "updated_at":  "2026-08-31T08:43:34Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "latent-consistency-bench",
+                             "full_name":  "belentani7/latent-consistency-bench",
+                             "url":  "https://github.com/belentani7/latent-consistency-bench",
+                             "description":  "Benchmarking visual consistency in AI-generated content.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  43,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:10Z",
+                             "updated_at":  "2026-09-03T10:55:20Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "quality-assurance",
+                                            "testing"
+                                        ]
+                         },
+                         {
+                             "name":  "linguaforge",
+                             "full_name":  "belentani7/linguaforge",
+                             "url":  "https://github.com/belentani7/linguaforge",
+                             "description":  "Forja linguistica: herramientas de traduccion y adaptacion multilingue.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  683,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-15T05:47:38Z",
+                             "updated_at":  "2026-09-03T10:53:23Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "design",
+                                            "frontend",
+                                            "internal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "llm-vfx-orchestrator",
+                             "full_name":  "belentani7/llm-vfx-orchestrator",
+                             "url":  "https://github.com/belentani7/llm-vfx-orchestrator",
+                             "description":  "Autonomous VFX pipeline orchestration using LLMs connected to ComfyUI APIs.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  41,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:15Z",
+                             "updated_at":  "2026-09-03T10:55:18Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "api",
+                                            "data-engineering",
+                                            "design",
+                                            "frontend",
+                                            "graphql",
+                                            "rest",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "local-agent",
+                             "full_name":  "belentani7/local-agent",
+                             "url":  "https://github.com/belentani7/local-agent",
+                             "description":  "Archived reference: Windows OpenManus/Ollama setup. Preserved for documentation; current work uses remote providers on modest hardware.",
+                             "language":  "PowerShell",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  158,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-02T17:29:44Z",
+                             "updated_at":  "2026-08-12T01:47:43Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "archived-reference",
+                                            "documentation",
+                                            "education",
+                                            "llm",
+                                            "multi-agent",
+                                            "ollama",
+                                            "openmanus",
+                                            "windows"
+                                        ]
+                         },
+                         {
+                             "name":  "ManosAbiertas",
+                             "full_name":  "belentani7/ManosAbiertas",
+                             "url":  "https://github.com/belentani7/ManosAbiertas",
+                             "description":  "Plataforma educativa gratuita: cursos IA/Office, creador CV, guâ”œÂ¡as derechos y recursos para migrantes y comunidades.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  7747,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-23T18:16:53Z",
+                             "updated_at":  "2026-09-03T17:14:09Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-literacy",
+                                            "analytics",
+                                            "belentani-ecosystem",
+                                            "cli",
+                                            "cv-generator",
+                                            "data-engineering",
+                                            "design",
+                                            "developer-tools",
+                                            "education",
+                                            "free-tools",
+                                            "frontend",
+                                            "internal",
+                                            "migrants",
+                                            "social-impact",
+                                            "terminal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "ManosAbiertas-backup-v1",
+                             "full_name":  "belentani7/ManosAbiertas-backup-v1",
+                             "url":  "https://github.com/belentani7/ManosAbiertas-backup-v1",
+                             "description":  "Plataforma educativa multilingue con cursos gratuitos, CV guiado, asistentes offline y accesibilidad.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  12502,
+                             "open_issues_count":  2,
+                             "created_at":  "2026-08-04T17:45:13Z",
+                             "updated_at":  "2026-08-25T05:59:50Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "accessibility",
+                                            "analytics",
+                                            "belentani-ecosystem",
+                                            "cli",
+                                            "data-engineering",
+                                            "design",
+                                            "developer-tools",
+                                            "education",
+                                            "frontend",
+                                            "internal",
+                                            "multilingual",
+                                            "nextjs",
+                                            "pwa",
+                                            "terminal",
+                                            "typescript",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "manus-ai-skill-pack",
+                             "full_name":  "belentani7/manus-ai-skill-pack",
+                             "url":  "https://github.com/belentani7/manus-ai-skill-pack",
+                             "description":  "Pack de skills para agentes de codigo (estilo Manus/Claude) listos para produccion.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  9749,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-15T13:11:51Z",
+                             "updated_at":  "2026-09-03T10:54:19Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "llm",
+                                            "low-level",
+                                            "multi-agent",
+                                            "performance",
+                                            "systems"
+                                        ]
+                         },
+                         {
+                             "name":  "MetaSkill",
+                             "full_name":  "belentani7/MetaSkill",
+                             "url":  "https://github.com/belentani7/MetaSkill",
+                             "description":  "Zero-token task router for AI coding agents Ã”Ã‡Ã¶ classifies requests locally without burning LLM tokens. 16 archetypes, 4 complexity tiers, in-context classification.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  16,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T15:41:49Z",
+                             "updated_at":  "2026-09-01T08:41:46Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "ai-coding",
+                                            "claude-code",
+                                            "cost-control",
+                                            "llm",
+                                            "llm-router",
+                                            "model-routing",
+                                            "multi-agent",
+                                            "qwen-code",
+                                            "token-optimization",
+                                            "zero-token"
+                                        ]
+                         },
+                         {
+                             "name":  "meta-skill",
+                             "full_name":  "belentani7/meta-skill",
+                             "url":  "https://github.com/belentani7/meta-skill",
+                             "description":  "Zero-token skill router for Claude Code and Qwen Code. Routes agent requests to the right skill without burning LLM tokens.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  44,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-07-20T16:09:35Z",
+                             "updated_at":  "2026-09-03T10:55:06Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "ai-agents",
+                                            "ai-coding",
+                                            "claude-code",
+                                            "cost-control",
+                                            "llm",
+                                            "llm-router",
+                                            "model-routing",
+                                            "multi-agent",
+                                            "routing",
+                                            "token-budget",
+                                            "token-optimization"
+                                        ]
+                         },
+                         {
+                             "name":  "michelle-relayze-web",
+                             "full_name":  "belentani7/michelle-relayze-web",
+                             "url":  "https://github.com/belentani7/michelle-relayze-web",
+                             "description":  "Michelle Relayze Web â€” Belentani ecosystem project",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  3670,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-29T23:03:11Z",
+                             "updated_at":  "2026-08-31T08:46:05Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "mimo-companion",
+                             "full_name":  "belentani7/mimo-companion",
+                             "url":  "https://github.com/belentani7/mimo-companion",
+                             "description":  "PWA companion application",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  14,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:20Z",
+                             "updated_at":  "2026-08-31T08:45:56Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "nebula-cosmos",
+                             "full_name":  "belentani7/nebula-cosmos",
+                             "url":  "https://github.com/belentani7/nebula-cosmos",
+                             "description":  "Nebula Cosmos â€” Belentani ecosystem project",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  11,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T11:55:24Z",
+                             "updated_at":  "2026-09-03T11:56:09Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "Netlify",
+                             "full_name":  "belentani7/Netlify",
+                             "url":  "https://github.com/belentani7/Netlify",
+                             "description":  "Next.js 16 frontend laboratory with image tooling, verified lint, tests and deployment previews.",
+                             "language":  "JavaScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  2877,
+                             "open_issues_count":  6,
+                             "created_at":  "2026-08-04T18:11:16Z",
+                             "updated_at":  "2026-09-01T08:31:06Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "cloud",
+                                            "data-engineering",
+                                            "deployment",
+                                            "frontend",
+                                            "hosting",
+                                            "image-processing",
+                                            "nextjs",
+                                            "quality-assurance",
+                                            "testing"
+                                        ]
+                         },
+                         {
+                             "name":  "newbelentani",
+                             "full_name":  "belentani7/newbelentani",
+                             "url":  "https://github.com/belentani7/newbelentani",
+                             "description":  "Secuencia de Acceso Judas",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  85,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-09-02T18:02:21Z",
+                             "updated_at":  "2026-09-02T18:03:49Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "newbelentani1",
+                             "full_name":  "belentani7/newbelentani1",
+                             "url":  "https://github.com/belentani7/newbelentani1",
+                             "description":  "Laboratorio Sonoro IA",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  66,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-09-02T18:03:13Z",
+                             "updated_at":  "2026-09-02T18:03:43Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "newbelentani11",
+                             "full_name":  "belentani7/newbelentani11",
+                             "url":  "https://github.com/belentani7/newbelentani11",
+                             "description":  "Entorno Linux PowerShell GitHub",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  60,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-09-02T18:05:13Z",
+                             "updated_at":  "2026-09-02T18:05:26Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "cli",
+                                            "design",
+                                            "developer-tools",
+                                            "frontend",
+                                            "terminal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "nexus-os",
+                             "full_name":  "belentani7/nexus-os",
+                             "url":  "https://github.com/belentani7/nexus-os",
+                             "description":  "Neon Glass Operating System. Browser-based OS shell with 38+ apps, cyberpunk aesthetics, zero dependencies.",
+                             "language":  "JavaScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  775,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T09:35:11Z",
+                             "updated_at":  "2026-09-03T10:56:59Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "cli",
+                                            "developer-tools",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "NOIACORE",
+                             "full_name":  "belentani7/NOIACORE",
+                             "url":  "https://github.com/belentani7/NOIACORE",
+                             "description":  "Multi-agent intelligence system Ã”Ã‡Ã¶ concept, architecture, and orchestration framework for autonomous AI agents",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  8397,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T16:41:48Z",
+                             "updated_at":  "2026-09-03T10:54:05Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "ai-agents",
+                                            "belentani-ecosystem",
+                                            "internal",
+                                            "llm",
+                                            "multi-agent",
+                                            "orchestration"
+                                        ]
+                         },
+                         {
+                             "name":  "noiacore-turbo",
+                             "full_name":  "belentani7/noiacore-turbo",
+                             "url":  "https://github.com/belentani7/noiacore-turbo",
+                             "description":  "Multi-agent AI orchestration platform Ã”Ã‡Ã¶ FastAPI backend, Next.js frontend, autonomous task routing, WebSocket integration, tier-based API access",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  0,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T06:13:38Z",
+                             "updated_at":  "2026-09-02T06:13:39Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "api",
+                                            "backend",
+                                            "belentani-ecosystem",
+                                            "build-system",
+                                            "graphql",
+                                            "internal",
+                                            "llm",
+                                            "monorepo",
+                                            "multi-agent",
+                                            "rest"
+                                        ]
+                         },
+                         {
+                             "name":  "noiacore-turbo-v2",
+                             "full_name":  "belentani7/noiacore-turbo-v2",
+                             "url":  "https://github.com/belentani7/noiacore-turbo-v2",
+                             "description":  "BarriServei AI - Autonomous local services platform with AI intake, Stripe escrow, WhatsApp integration",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  89,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T06:25:05Z",
+                             "updated_at":  "2026-09-02T06:27:37Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "build-system",
+                                            "internal",
+                                            "monorepo"
+                                        ]
+                         },
+                         {
+                             "name":  "Oculus-Tv",
+                             "full_name":  "belentani7/Oculus-Tv",
+                             "url":  "https://github.com/belentani7/Oculus-Tv",
+                             "description":  "Repositâ”œâ”‚rio multilâ”œÂ¡ngue de câ”œâ”‚digo aberto com livros e materiais audiovisuais educativos.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1536,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-06T08:53:30Z",
+                             "updated_at":  "2026-08-31T08:46:06Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "accessibility",
+                                            "audio",
+                                            "education",
+                                            "low-level",
+                                            "multilingual",
+                                            "open-source",
+                                            "performance",
+                                            "speech-synthesis",
+                                            "systems",
+                                            "tts",
+                                            "voice-ai"
+                                        ]
+                         },
+                         {
+                             "name":  "omega-max-duck",
+                             "full_name":  "belentani7/omega-max-duck",
+                             "url":  "https://github.com/belentani7/omega-max-duck",
+                             "description":  "DUCK â•¬Â®-MAX Studio OS Ã”Ã‡Ã¶ CRM, producciâ”œâ”‚n musical, operaciones y automatizaciones para clientes y proyectos.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  279,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-22T07:03:00Z",
+                             "updated_at":  "2026-09-03T10:56:34Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "cli",
+                                            "developer-tools",
+                                            "internal",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "omniagent",
+                             "full_name":  "belentani7/omniagent",
+                             "url":  "https://github.com/belentani7/omniagent",
+                             "description":  "One CLI to route AI tasks to the best model.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  56,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:36Z",
+                             "updated_at":  "2026-09-03T10:55:32Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "cli",
+                                            "developer-tools",
+                                            "llm",
+                                            "multi-agent",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "openclaw-workspace",
+                             "full_name":  "belentani7/openclaw-workspace",
+                             "url":  "https://github.com/belentani7/openclaw-workspace",
+                             "description":  "OpenClaw workspace config",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  88829,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-28T11:53:04Z",
+                             "updated_at":  "2026-09-03T10:53:24Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "build-system",
+                                            "monorepo"
+                                        ]
+                         },
+                         {
+                             "name":  "open-school",
+                             "full_name":  "belentani7/open-school",
+                             "url":  "https://github.com/belentani7/open-school",
+                             "description":  "Instituto educativo digital universal Ã”Ã‡Ã¶ cursos modulares, certificaciones verificables, accesibilidad WCAG, offline-first",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  145,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T20:51:08Z",
+                             "updated_at":  "2026-09-03T11:58:37Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "data-engineering"
+                                        ]
+                         },
+                         {
+                             "name":  "oss-compass",
+                             "full_name":  "belentani7/oss-compass",
+                             "url":  "https://github.com/belentani7/oss-compass",
+                             "description":  "Universal validation envelopes with auditable 2-of-3 node confirmation",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  101,
+                             "open_issues_count":  5,
+                             "created_at":  "2026-08-16T14:58:18Z",
+                             "updated_at":  "2026-09-03T10:53:08Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-safety",
+                                            "api",
+                                            "backend",
+                                            "distributed-systems",
+                                            "open-source",
+                                            "python",
+                                            "validation"
+                                        ]
+                         },
+                         {
+                             "name":  "pbr-validator",
+                             "full_name":  "belentani7/pbr-validator",
+                             "url":  "https://github.com/belentani7/pbr-validator",
+                             "description":  "Validates PBR texture sets for correctness and compatibility with game engines.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  38,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:47Z",
+                             "updated_at":  "2026-09-03T10:56:39Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "data-engineering",
+                                            "game-dev",
+                                            "gaming"
+                                        ]
+                         },
+                         {
+                             "name":  "power",
+                             "full_name":  "belentani7/power",
+                             "url":  "https://github.com/belentani7/power",
+                             "description":  "Entorno Linux con PowerShell y GitHub CLI",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  58,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-09-02T18:38:59Z",
+                             "updated_at":  "2026-09-02T18:40:59Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "cli",
+                                            "design",
+                                            "developer-tools",
+                                            "frontend",
+                                            "terminal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "premium-effects-registry",
+                             "full_name":  "belentani7/premium-effects-registry",
+                             "url":  "https://github.com/belentani7/premium-effects-registry",
+                             "description":  "Curated collection of 50+ GitHub repos for premium frontend visual effects Ã”Ã‡Ã¶ liquid logos, 3D/WebGL, GLSL shaders, GSAP, particles, cyberpunk UI",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  7,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T01:09:04Z",
+                             "updated_at":  "2026-09-03T01:09:25Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "3d",
+                                            "design",
+                                            "frontend",
+                                            "graphics",
+                                            "logging",
+                                            "low-level",
+                                            "monitoring",
+                                            "nextjs",
+                                            "observability",
+                                            "performance",
+                                            "react",
+                                            "systems",
+                                            "typescript",
+                                            "ui-ux",
+                                            "webgl"
+                                        ]
+                         },
+                         {
+                             "name":  "proofmesh",
+                             "full_name":  "belentani7/proofmesh",
+                             "url":  "https://github.com/belentani7/proofmesh",
+                             "description":  "Evidence-first change intelligence with strict 6-criteria, 3-node, 3-level gates",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  254,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T09:24:00Z",
+                             "updated_at":  "2026-09-03T12:11:00Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-safety",
+                                            "api",
+                                            "backend",
+                                            "code-audit",
+                                            "developer-tools",
+                                            "open-source",
+                                            "shell",
+                                            "typescript"
+                                        ]
+                         },
+                         {
+                             "name":  "pvc-u-core",
+                             "full_name":  "belentani7/pvc-u-core",
+                             "url":  "https://github.com/belentani7/pvc-u-core",
+                             "description":  "Protocolo de Validaciâ”œâ”‚n Continua Universal Ã”Ã‡Ã¶ Kernel de gobernanza para Empresas de IA Autâ”œâ”‚nomas Enterprise (HIPAA, PCI-DSS, GDPR)",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  34,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T01:59:05Z",
+                             "updated_at":  "2026-09-03T02:41:22Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal",
+                                            "low-level",
+                                            "performance",
+                                            "systems"
+                                        ]
+                         },
+                         {
+                             "name":  "pvc-u-frontend",
+                             "full_name":  "belentani7/pvc-u-frontend",
+                             "url":  "https://github.com/belentani7/pvc-u-frontend",
+                             "description":  "PVC-U Dashboard Ã”Ã‡Ã¶ Liquid Glass/Neon Aesthetic con React 19 + Vite 7",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  53,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T03:25:54Z",
+                             "updated_at":  "2026-09-03T09:40:16Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "build",
+                                            "design",
+                                            "frontend",
+                                            "internal",
+                                            "nextjs",
+                                            "react",
+                                            "tooling",
+                                            "typescript",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "qbp-core",
+                             "full_name":  "belentani7/qbp-core",
+                             "url":  "https://github.com/belentani7/qbp-core",
+                             "description":  "Core SDK for the Quadrachy Binding Protocol - structured format for defining and validating.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  46,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:52:58Z",
+                             "updated_at":  "2026-09-03T10:54:13Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "blockchain",
+                                            "crypto",
+                                            "data-engineering",
+                                            "web3"
+                                        ]
+                         },
+                         {
+                             "name":  "qwen-code",
+                             "full_name":  "belentani7/qwen-code",
+                             "url":  "https://github.com/belentani7/qwen-code",
+                             "description":  "An open-source AI coding agent that lives in your terminal.",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1110287,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-31T09:25:27Z",
+                             "updated_at":  "2026-09-01T07:43:23Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "cli",
+                                            "developer-tools",
+                                            "llm",
+                                            "multi-agent",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "registro-proyectos-2026",
+                             "full_name":  "belentani7/registro-proyectos-2026",
+                             "url":  "https://github.com/belentani7/registro-proyectos-2026",
+                             "description":  "Registro maestro de proyectos Pedro Belentani 2026",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  56,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T09:35:38Z",
+                             "updated_at":  "2026-09-03T10:55:36Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "rh-fiscal-ultra-elite",
+                             "full_name":  "belentani7/rh-fiscal-ultra-elite",
+                             "url":  "https://github.com/belentani7/rh-fiscal-ultra-elite",
+                             "description":  "Suite RH/fiscal con automatizacion de calculos e informes.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  42,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-18T10:57:04Z",
+                             "updated_at":  "2026-09-03T10:54:00Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "design",
+                                            "frontend",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "secure-t",
+                             "full_name":  "belentani7/secure-t",
+                             "url":  "https://github.com/belentani7/secure-t",
+                             "description":  "secure T Ã”Ã‡Ã¶ Universidad Digital de Ciberseguridad e Inteligencia Artificial",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  2445,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T00:16:29Z",
+                             "updated_at":  "2026-09-04T08:38:07Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "authentication",
+                                            "authorization",
+                                            "security"
+                                        ]
+                         },
+                         {
+                             "name":  "skillforge",
+                             "full_name":  "belentani7/skillforge",
+                             "url":  "https://github.com/belentani7/skillforge",
+                             "description":  "Universal package manager for AI coding skills. Write once, install everywhere.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  41,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-01T10:04:07Z",
+                             "updated_at":  "2026-09-02T06:36:21Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "skills-registry",
+                             "full_name":  "belentani7/skills-registry",
+                             "url":  "https://github.com/belentani7/skills-registry",
+                             "description":  "Global CLI agent skill distribution system Ã”Ã‡Ã¶ discover, install, manage skills for Qwen Code, Claude Code, Cline, OpenCode",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  53,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T21:21:12Z",
+                             "updated_at":  "2026-09-03T06:21:36Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "ai-agent",
+                                            "belentani-ecosystem",
+                                            "cli",
+                                            "developer-tools",
+                                            "internal",
+                                            "llm",
+                                            "multi-agent",
+                                            "terminal"
+                                        ]
+                         },
+                         {
+                             "name":  "Steven-renovation",
+                             "full_name":  "belentani7/Steven-renovation",
+                             "url":  "https://github.com/belentani7/Steven-renovation",
+                             "description":  "Este proyecto contiene la estructura local de una web comercial para servicios de reformas. La carpeta agrupa variantes HTML, recursos visuales, vâ”œÂ¡deos y documentaciâ”œâ”‚n breve preparada para organizar el material antes de subirlo a GitHub.",
+                             "language":  "HTML",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  5838,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-10T09:11:57Z",
+                             "updated_at":  "2026-09-03T10:55:34Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "analytics",
+                                            "cross-platform",
+                                            "data-engineering",
+                                            "desktop",
+                                            "documentation",
+                                            "education",
+                                            "mobile"
+                                        ]
+                         },
+                         {
+                             "name":  "temporal-artifact-detector",
+                             "full_name":  "belentani7/temporal-artifact-detector",
+                             "url":  "https://github.com/belentani7/temporal-artifact-detector",
+                             "description":  "Python tool for detecting flickering and temporal artifacts in AI-generated videos.",
+                             "language":  "Python",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  43,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-16T14:53:03Z",
+                             "updated_at":  "2026-09-03T10:55:24Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "data-science",
+                                            "media",
+                                            "ml",
+                                            "python",
+                                            "streaming",
+                                            "video"
+                                        ]
+                         },
+                         {
+                             "name":  "tender-words-connect",
+                             "full_name":  "belentani7/tender-words-connect",
+                             "url":  "https://github.com/belentani7/tender-words-connect",
+                             "description":  "Mapa de comprension y herramientas sobre TLP, vinculos y gestion emocional.",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  637,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-03T01:05:59Z",
+                             "updated_at":  "2026-09-03T10:53:54Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "borderline",
+                                            "bpd",
+                                            "emotional-regulation",
+                                            "mental-health",
+                                            "relationships",
+                                            "self-help"
+                                        ]
+                         },
+                         {
+                             "name":  "the-judas-experience",
+                             "full_name":  "belentani7/the-judas-experience",
+                             "url":  "https://github.com/belentani7/the-judas-experience",
+                             "description":  "The Judas Experience â€” Core Belentani ecosystem project, Internal tooling",
+                             "language":  "CSS",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  2249,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-08-29T15:04:00Z",
+                             "updated_at":  "2026-08-31T08:43:11Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "internal"
+                                        ]
+                         },
+                         {
+                             "name":  "thesredsound",
+                             "full_name":  "belentani7/thesredsound",
+                             "url":  "https://github.com/belentani7/thesredsound",
+                             "description":  "Thesredsound â€” Belentani ecosystem project",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  0,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-31T15:43:57Z",
+                             "updated_at":  "2026-09-01T08:31:03Z",
+                             "visibility":  "public",
+                             "topics":  [
+
+                                        ]
+                         },
+                         {
+                             "name":  "UI",
+                             "full_name":  "belentani7/UI",
+                             "url":  "https://github.com/belentani7/UI",
+                             "description":  "Botica Autâ”œâ”‚noma de Shaders Neâ”œâ”‚n",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  68,
+                             "open_issues_count":  1,
+                             "created_at":  "2026-09-03T14:43:52Z",
+                             "updated_at":  "2026-09-03T14:47:45Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "3d",
+                                            "design",
+                                            "frontend",
+                                            "graphics",
+                                            "ui-ux",
+                                            "webgl"
+                                        ]
+                         },
+                         {
+                             "name":  "UIJUDAS",
+                             "full_name":  "belentani7/UIJUDAS",
+                             "url":  "https://github.com/belentani7/UIJUDAS",
+                             "description":  "Estâ”œÂ®tica Cristal Sangrante",
+                             "language":  null,
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  57,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-03T14:44:46Z",
+                             "updated_at":  "2026-09-03T14:45:33Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "design",
+                                            "frontend",
+                                            "internal",
+                                            "ui-ux"
+                                        ]
+                         },
+                         {
+                             "name":  "ux-academy-professional-program",
+                             "full_name":  "belentani7/ux-academy-professional-program",
+                             "url":  "https://github.com/belentani7/ux-academy-professional-program",
+                             "description":  "Trilingual UX/Product Design learning platform Ã”Ã‡Ã¶ practice exercises, evaluation system, and capstone projects",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  1628,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-08-27T06:48:16Z",
+                             "updated_at":  "2026-09-03T15:23:23Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "belentani-ecosystem",
+                                            "curriculum",
+                                            "design",
+                                            "documentation",
+                                            "education",
+                                            "frontend",
+                                            "internal",
+                                            "quality-assurance",
+                                            "testing",
+                                            "trilingual",
+                                            "ui-ux",
+                                            "ux-design"
+                                        ]
+                         },
+                         {
+                             "name":  "win11-workspace",
+                             "full_name":  "belentani7/win11-workspace",
+                             "url":  "https://github.com/belentani7/win11-workspace",
+                             "description":  "Win11 Workspace â€” Monorepo configuration",
+                             "language":  "TypeScript",
+                             "stargazers_count":  0,
+                             "forks_count":  0,
+                             "size":  274,
+                             "open_issues_count":  0,
+                             "created_at":  "2026-09-02T18:39:23Z",
+                             "updated_at":  "2026-09-02T18:42:24Z",
+                             "visibility":  "public",
+                             "topics":  [
+                                            "build-system",
+                                            "monorepo"
+                                        ]
+                         }
+                     ],
+    "experience":  [
+                       {
+                           "company":  "TELUS Digital (CCC Meta)",
+                           "period":  "2018-08 to 2025-06",
+                           "years":  7,
+                           "role":  "Global Safety Analyst \u0026 Content Moderator"
+                       },
+                       {
+                           "company":  "Concentrix / Inditex Group",
+                           "period":  "2016-12 to 2018-08",
+                           "role":  "Customer Operations \u0026 Team Reference"
+                       },
+                       {
+                           "company":  "Belentani Corp (Freelance)",
+                           "period":  "2026-05 to Present",
+                           "role":  "AI Systems Architect \u0026 Creative Technologist"
+                       }
+                   ],
+    "education":  [
+                      {
+                          "status":  "In progress (Oct 2026)",
+                          "title":  "Master\u0027s in AI for Creative Industries",
+                          "period":  "2025-2026",
+                          "institution":  "LABASAD"
+                      },
+                      {
+                          "status":  "Completed",
+                          "title":  "First Certificate in English (C1)",
+                          "period":  "2015-2016",
+                          "institution":  "Master Language"
+                      },
+                      {
+                          "status":  "Completed",
+                          "title":  "FP Intermediate Degree Commercial Activities",
+                          "period":  "2013-2014",
+                          "institution":  "Centre d\u0027Estudis Sant Francesc"
+                      }
+                  ],
+    "technical_skills":  {
+                             "programming":  [
+                                                 {
+                                                     "projects":  "FastAPI, Flask, LangChain, PyTorch",
+                                                     "level":  "Advanced",
+                                                     "language":  "Python"
+                                                 },
+                                                 {
+                                                     "projects":  "React, Next.js, Node.js, Express, Vite",
+                                                     "level":  "Advanced",
+                                                     "language":  "TypeScript/JavaScript"
+                                                 },
+                                                 {
+                                                     "projects":  "Tailwind, Three.js, GSAP",
+                                                     "level":  "Advanced",
+                                                     "language":  "HTML/CSS"
+                                                 },
+                                                 {
+                                                     "projects":  "Tauri, sandboxes, proxies",
+                                                     "level":  "Intermediate",
+                                                     "language":  "Rust"
+                                                 },
+                                                 {
+                                                     "projects":  "CLI tools, AI agents",
+                                                     "level":  "Intermediate",
+                                                     "language":  "Go"
+                                                 },
+                                                 {
+                                                     "projects":  "stable-diffusion.cpp",
+                                                     "level":  "Basic-Intermediate",
+                                                     "language":  "C/C++"
+                                                 }
+                                             ],
+                             "ai_providers":  [
+                                                  "OpenAI",
+                                                  "Anthropic",
+                                                  "Google Gemini",
+                                                  "OpenRouter",
+                                                  "Groq",
+                                                  "DeepSeek",
+                                                  "Mistral",
+                                                  "NVIDIA",
+                                                  "SiliconFlow",
+                                                  "DashScope/Aliyun Bailian",
+                                                  "Fireworks",
+                                                  "xAI"
+                                              ],
+                             "free_tiers":  [
+                                                "Groq",
+                                                "Cerebras",
+                                                "Mistral",
+                                                "OpenRouter",
+                                                "NVIDIA",
+                                                "Gemini"
+                                            ],
+                             "cli_tools":  [
+                                               {
+                                                   "version":  "2.1.208",
+                                                   "name":  "Claude Code"
+                                               },
+                                               {
+                                                   "version":  "0.1.5",
+                                                   "name":  "MiMo Code"
+                                               },
+                                               {
+                                                   "version":  "0.50.0",
+                                                   "name":  "Gemini CLI"
+                                               },
+                                               {
+                                                   "version":  "0.19.9",
+                                                   "name":  "Qwen Code"
+                                               },
+                                               {
+                                                   "version":  "0.15.2",
+                                                   "name":  "Hermes"
+                                               },
+                                               {
+                                                   "version":  "0.86.2",
+                                                   "name":  "Aider"
+                                               },
+                                               {
+                                                   "version":  "",
+                                                   "name":  "OpenCode"
+                                               },
+                                               {
+                                                   "version":  "1.43",
+                                                   "name":  "Goose"
+                                               }
+                                           ],
+                             "frameworks":  "BTI,DARVO,ACH,Anti-Sycophancy,Cassandra Complex,PET/PLS/PHR,Hypervigilance",
+                             "languages":  "pt-BR (native), es (native), ca (native), en (C1), it (conversational), fr (basic), de (basic)"
+                         },
+    "featured_projects":  [
+                              {
+                                  "name":  "VoiceBot SaaS",
+                                  "description":  "SaaS for WhatsApp voice bots + phone calls, 5 languages, production-ready"
+                              },
+                              {
+                                  "name":  "OmniRoute",
+                                  "description":  "Multi-provider AI gateway, 250+ providers, v3.8.48"
+                              },
+                              {
+                                  "name":  "MetaSkill",
+                                  "description":  "Zero-token task router for AI coding agents, 16 archetypes"
+                              },
+                              {
+                                  "name":  "ManosAbiertas",
+                                  "description":  "Free educational platform for migrants and communities"
+                              },
+                              {
+                                  "name":  "Cassandra Complex",
+                                  "description":  "Mental-health platform with 7 AI agents"
+                              },
+                              {
+                                  "name":  "EmpresaAI",
+                                  "description":  "Autonomous enterprise platform, 20 modules"
+                              },
+                              {
+                                  "name":  "The Judas Experience",
+                                  "description":  "Immersive cyberpunk web platform"
+                              }
+                          ],
+    "metrics":  {
+                    "projects_delivered_8weeks":  "30+",
+                    "academic_articles":  12,
+                    "ai_models_production":  "8+",
+                    "platform_modules":  20,
+                    "verified_streams":  "36M+",
+                    "music_releases":  "40+",
+                    "websites_built":  "50+",
+                    "github_public_repos":  105,
+                    "github_total_repos":  470,
+                    "ai_providers_integrated":  "12+",
+                    "ai_cli_tools":  "8+",
+                    "own_analytical_frameworks":  "7+",
+                    "automation_scripts":  "22+",
+                    "agent_skills_installed":  "65+",
+                    "efficiency_factor":  "6.7x",
+                    "resource_optimization":  "8.4x",
+                    "anomaly_detection":  "4x"
+                },
+    "target_roles":  [
+                         "Senior AI Safety Engineer",
+                         "Trust \u0026 Safety Lead",
+                         "Content Policy Analyst",
+                         "Platform Safety Architect",
+                         "AI Behavioral Evaluation Specialist",
+                         "Senior Content Moderator",
+                         "AI Ethics Researcher",
+                         "Platform Integrity Manager",
+                         "Neural Architect"
+                     ],
+    "target_companies":  [
+                             "Anthropic",
+                             "OpenAI",
+                             "DeepMind",
+                             "Meta Integrity",
+                             "Google Trust \u0026 Safety",
+                             "TikTok Safety",
+                             "Snap",
+                             "Spotify Policy \u0026 Safety",
+                             "Apple Privacy \u0026 Security",
+                             "Microsoft Responsible AI",
+                             "Alibaba Cloud (Bailian/Token Plan)"
+                         ],
+    "security":  {
+                     "note":  "API keys, OAuth client_secret/client_id intentionally omitted from this document",
+                     "windows_defender":  "Active",
+                     "two_factor_auth":  true
+                 },
+    "data_sources":  [
+                         {
+                             "date":  "2026-09-04",
+                             "file":  "GITHUB-BELENTANI7-COMPLETE-ENRICHED.json",
+                             "type":  "GitHub API export"
+                         },
+                         {
+                             "date":  "2026-09-04",
+                             "file":  "GITHUB-BELENTANI7-ALL-REPOS-20260904.json",
+                             "type":  "GitHub API export"
+                         },
+                         {
+                             "file":  "PEDRO_BELENTANI_CVD_UNIFIED_2026.md",
+                             "type":  "Existing CVD"
+                         }
+                     ]
+}
